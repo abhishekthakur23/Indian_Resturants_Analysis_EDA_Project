@@ -60,11 +60,6 @@ These below columns removed from dataset.
 The dataset contains 168,634 missing values, which were addressed using various methods to ensure data integrity. Numerical data with missing values were imputed using the mean or median. In cases where the missing data was deemed insignificant to the overall analysis, the affected rows were removed. 
 Additionally, for features where imputation wasn't appropriate, alternative techniques were applied to effectively handle the missing data.
 
-# EDA
-
-This EDA will provide valuable insights into restaurant success on Zomato, helping restaurant owners improve their offerings and guiding users in making better dining choices. The analysis will deliver actionable recommendations based on the relationship between various features and restaurant ratings. Visualizations like Histogram, Scatter Plot, Bar Plots etc. are employed to understand key factors and insights. The primary goal is to uncover patterns and relationships between various features such as cuisine, pricing, and service offerings, and their impact on restaurant ratings.
-
-
 # Exploratory Data Analysis
 
 This EDA will provide valuable insights into restaurant success on Zomato, helping restaurant owners improve their offerings and guiding users in making better dining choices. The analysis will deliver actionable recommendations based on the relationship between various features and restaurant ratings.Visualizations like Histogram, Scatter Plot, Bar Plots etc. are employed to understand key factors and insights. The primary goal is to uncover patterns and relationships between various features such as cuisine, pricing, and service offerings, and their impact on restaurant ratings.
